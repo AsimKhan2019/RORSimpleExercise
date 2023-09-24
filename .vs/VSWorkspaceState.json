@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\app",
+    "\\app\\models",
+    "\\app\\views",
+    "\\app\\views\\layouts"
   ],
-  "SelectedNode": "\\D:\\Users\\Asim\\Source\\Repos\\AsimKhan2019\\RORSimpleExercise",
+  "SelectedNode": "\\app\\views\\layouts\\application.html.erb",
   "PreviewInSolutionExplorer": false
 }
